@@ -21,11 +21,11 @@ No centralized factory, but a network of workshops for a distributed production,
 ![image](https://user-images.githubusercontent.com/12049360/168845077-a27ab141-db52-4cd6-bb08-3ad6fa017a7c.png)
 source: https://blogs.aalto.fi/makerculture/2017/10/19/localizing-and-distributing-production/
 
+## Licence
 _"The plans will be published on github under a open license with attribution (CC BY 4.0)."_  
 As a consequence of these goals, the plans must be shared and open so that every place that wants to participate in some way to the ball cutting, can be allowed to do so.   
 We propose the most common and suitable way to publish these plans. This is via github, a platform that allows protection, distribution and collaboration on software, hardware and other projects.
 
-## Licence
 The suggested license is CC BY 4.0, which is the creative commons version 4.0 with attribution.  
 https://creativecommons.org/2013/11/25/ccs-next-generation-licenses-welcome-version-4-0/  
 
