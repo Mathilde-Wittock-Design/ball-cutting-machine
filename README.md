@@ -27,3 +27,11 @@ Therefore we need to take in account:
 - Quality brands that are likely to be already in the range of professional makers. Fein, Bosch, makita, Ryobi, ....
 - opensource software and easy to access documentation, not paid.
 - 3D printing FDM, PLA filament, PETG, nothing too specific.
+
+### conceptual sketches
+#### - The sawing stand :
+![sketch1](https://user-images.githubusercontent.com/12049360/183877689-3c58ce99-c88c-49d0-a9f1-a7de2aac9cd5.png)
+
+
+#### - The clamping base for 3 balls :
+![sketch2](https://user-images.githubusercontent.com/65155080/173335976-9ab4c07f-ba06-429b-a176-dd44cf030ba9.jpg)
