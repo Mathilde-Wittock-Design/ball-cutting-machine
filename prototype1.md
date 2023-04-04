@@ -1,31 +1,29 @@
 
-# Prototype n°1
+# Prototype No. 1
 
-The first version of the "clamping base" is designed to hold a tennis ball while it underwent a vertical cut with a vibrating saw mounted on a drilling stand.  
-The constraints were as follows:
+The first version of the "clamping base" is designed to hold a tennis ball while undergoing a vertical cut with a vibrating saw mounted on a drilling stand. The constraints were as follows:  
 1. Keeping the ball properly secured despite its loss of volume and density as successive cuts were made.
-2. To properly secure the ball against pressure and vibration.
-3. Make a straight cut up to the middle of the ball.
+2. Properly securing the ball against pressure and vibration.
+3. Making a straight cut up to the middle of the ball.
 
-Following the guidelines, our solutions to these different problems were the following:
-1. We opted to hold the ball with a spring loaded clamp adapting to the different sizes and density changes of the ball during the operation.
-2. We added heavy-duty grip tape to the inside of the clamps, as well as screws, whose tips come out inside the clamp, in order to create even more resistance to vibration.
-3. We made a right angle table, in order to install the clamps vertically, so that we can cut up to half the ball with no obstruction from the clamp.  
-We added tabs to locate every clamps and ease the aligment with the blade.  
+Following the guidelines, our solutions to these different problems were as follows:
+1. We opted to hold the ball with a spring-loaded clamp that adapts to the different sizes and density changes of the ball during the operation.
+2. We added heavy-duty grip tape to the inside of the clamps, as well as screws whose tips come out inside the clamp, in order to create even more resistance to vibration.
+3. We made a right-angle table to install the clamps vertically so that we can cut up to half the ball with no obstruction from the clamp. We added tabs to locate every clamp and ease the alignment with the blade.
 
-![genPictV1](https://user-images.githubusercontent.com/65155080/183852260-1fb95dd3-75db-476f-898a-386a8473a9dc.jpg)
+![genPictV1](<https://user-images.githubusercontent.com/65155080/183852260-1fb95dd3-75db-476f-898a-386a8473a9dc.jpg>)
 
-## Lists of components 
+## Lists of Components
 #### Stand
 
-We opted for this sturdy, rigid and adjustable drill stand, which allows us to adjust the cutting height and the exact positioning of the vibrating saw.
-And we chose this model of Bosch multitool for its rigid "starlock" clamping ring that allowed us to hold on to it. The use in fixed station did not require the cordless version, which offers the advantage of being less expensive. 
+We opted for this sturdy, rigid, and adjustable drill stand, which allows us to adjust the cutting height and the exact positioning of the vibrating saw. And we chose this model of Bosch multitool for its rigid "starlock" clamping ring that allowed us to hold on to it. The use in a fixed station did not require the cordless version, which offers the advantage of being less expensive.
 
-![image](https://user-images.githubusercontent.com/12049360/184106494-41176b83-51c9-45b2-8257-dd9889c1223d.png)
+![image](<https://user-images.githubusercontent.com/12049360/184106494-41176b83-51c9-45b2-8257-dd9889c1223d.png>)
 
-- ["Drilling milling stand BF1240"](https://www.wabeco-remscheid.de/catalog/category/view/s/bf1240/id/352/)
+- ["Drilling milling stand BF1240"](<https://www.wabeco-remscheid.de/catalog/category/view/s/bf1240/id/352/>)
 - Multi-cutter "Bosch professional GOP 30-28"
-- saw blade "E-Cut SLP Standard HCS 50x65"
+- Saw blade "E-Cut SLP Standard HCS 50x65"
+
 
 
 
@@ -48,39 +46,38 @@ And we chose this model of Bosch multitool for its rigid "starlock" clamping rin
 
 
 
-## assemblage
+## Assembly
 
-1. Fixer le socle de perçage en le boulonnant au plan de travail, en deux point minimum.  
-2. Fixer l’adaptateur au bout de la tige hexagonale horizontale, de façon à ce qu’il soit à fleur de la tranche de la tige.  
-3. Positionner la scie vibrante dans l’adaptateur, serrer légèrement la vis de serrage et placer la lame.  
-4. Boulonner la partie fixe de la tablette au socle sans serrer.  
-5. Placer la partie mobile de la tablette contre la partie fixe dans la première encoche, placer une balle dans la première pince, et régler la partie de la tablette fixe de façon à ce que le centre de la balle soit aligné avec le centre de la lame.  
-6. Serrer alors la partie fixe de la tablette.  
-7. Fermer les pinces sauterelles, afin de verrouiller la position de la partie mobile, puis vérifier l’ équerrage de la lame avec la tablette à l’aide d’une équerre.
-8. Verrouiller l’ équerrage grâce au serre joint puis visser fermement la vis de serrage de la scie sur l’adaptateur.
-9. Régler la hauteur de coupe (axe Z) et la profondeur (axe Y) manuellement (se référer à la doc. du socle de perçage).
+1. Attach the drilling stand to the workbench using at least two bolts.
+2. Attach the adapter to the end of the horizontal hexagonal rod so that it is flush with the edge of the rod.
+3. Position the vibrating saw in the adapter, tighten the clamping screw slightly, and insert the blade.
+4. Bolt the fixed part of the board to the stand without tightening.
+5. Place the movable part of the board against the fixed part in the first notch, place a ball in the first clamp, and adjust the fixed part of the board so that the center of the ball is aligned with the center of the blade.
+6. Tighten the fixed part of the board.
+7. Close the toggle clamps to lock the position of the movable part, then check the alignment of the blade with the board using a square.
+8. Lock the square with a clamp and then firmly screw the saw's clamping screw onto the adapter.
+9. Adjust the cutting height (Z-axis) and depth (Y-axis) manually (refer to the drilling stand manual).
 
 
-
-## Construction de la tablette
+## Tablet construction
 
 ![sketch2](https://user-images.githubusercontent.com/65155080/173335976-9ab4c07f-ba06-429b-a176-dd44cf030ba9.jpg)
 
-- Découper les trois parties de la tablette au dimensions indiqué sur le schéma.
-- Les deux partie de la face plane, horizontale sont découpées avec un angle à 45° à la manière d’un «taquet français» de façon à ce que la partie mobile glisse sous la partie fixe.
-- La troisième partie est fixer en angle droit à la seconde, composant la partie mobile de la tablette.
-- Dans la partie fixe percer deux trou de façon à pouvoir la boulonner au socle, puis la fixer.
-- Tracer le centre de la lame sur la partie fixe, puis effectuer une encoche type «queue d’aronde» centré par rapport à la lame.
-- Découper le négatif de cette encoche et le coller dedans afin d’obtenir un cran.
+- Cut the three parts of the tablet to the dimensions indicated on the diagram.
+- The two parts of the flat, horizontal face are cut at a 45° angle like a "French cleat" so that the mobile part slides under the fixed part.
+- The third part is fixed at a right angle to the second, composing the mobile part of the tablet.
+- In the fixed part, drill two holes so that it can be bolted to the base, then fix it.
+- Trace the center of the blade on the fixed part, then make a "dovetail" notch centered on the blade.
+- Cut out the negative of this notch and stick it inside to obtain a notch.
 
 ![dimensions de la tablette](https://user-images.githubusercontent.com/65155080/184093429-8e3ee2d8-66ae-4daa-9ae7-a0a09ab2285b.jpg)
 
-- Découper en face, dans la partie mobile de la tablette, une encoche correspondant à ce cran, pour chaque pince, que vous souhaitez mettre sur cette tablette, l’espace recommander entre ces encoches est de 12/16 cm afin de prévoir la place pour les pinces mais aussi pour poser la main l’ hors de la coupe.
-- Déterminer l’emplacement des pinces centrées en face des encoches de la partie mobile, sur la partie verticale, en y positionnant déjà une balle dans chaque, afin de centré la balle et non la pince.
-Veiller à ce que la balle dépasse suffisamment en hauteur pour passer au dessus de la tablette horizontale.
-- Marquer l’emplacement de la pince et détourer le logement du ressort.
-- Enlever la pince, et évider l’emplacement du logement du ressort à l’aide d’un  ciseau à bois, dans la tablette, afin que celui ci puisse s’y placer complètement et ne plus gêner la stabilité de la pince.
-- Placer la pince à nouveau et la fixer en perçant l’un des deux manche de celle-ci en 3 points, afin de garder sa capacité à s’ouvrir et se refermer, tout en la fixant solidement.
+- Cut out a notch in the mobile part of the tablet corresponding to this notch, for each clamp you wish to put on this tablet, the recommended space between these notches is 12/16 cm to provide space for the clamps but also to place the hand outside the cut.
+- Determine the location of the clamps centered opposite the notches of the mobile part, on the vertical part, by already positioning a ball in each, in order to center the ball and not the clamp.
+Ensure that the ball protrudes sufficiently in height to pass over the horizontal tablet.
+- Mark the location of the clamp and outline the spring housing.
+- Remove the clamp and hollow out the spring housing location with a wood chisel in the tablet so that it can fit completely and no longer interfere with the stability of the clamp.
+- Place the clamp again and fix it by drilling one of the two handles in three points, in order to keep its ability to open and close while fixing it securely.
 
 ![alignement tablette](https://user-images.githubusercontent.com/65155080/184105572-b166525d-a52b-4995-9062-f6a59c647828.jpg)
 
